@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "promise chain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh47ch/promise.git"
+  },
+  "author": "lokesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokesh47ch/promise/issues"
+  },
+  "homepage": "https://github.com/lokesh47ch/promise#readme"
+}
